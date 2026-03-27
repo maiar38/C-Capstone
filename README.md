@@ -80,11 +80,7 @@ It demonstrates core programming concepts including **Object-Oriented Programmin
 
 ---
 
-## 📊 UML Diagram
 
-*(Attach your UML diagram image here)*
-
----
 
 ## 💾 File Storage
 
