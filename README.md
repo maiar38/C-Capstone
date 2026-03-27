@@ -18,6 +18,8 @@ It demonstrates core programming concepts including **Object-Oriented Programmin
 * Enroll a student in a course
 * Show student courses
 * Sort students by GPA
+* Save student data to file (students.txt)
+* Load student data from file
 
 ---
 
@@ -120,14 +122,15 @@ g++ main.cpp Student.cpp StudentManager.cpp Person.cpp -o app
 ```
 1. Add Student
 2. Remove Student
-3. Search Student
+3. Search Student by ID
 4. Display All Students
 5. Enroll Student in Course
 6. Show Student Courses
 7. Sort Students by GPA
-8. Exit
-9. Save to File
-10. Load from File
+8. Save to File
+9. Load from File
+10. Search Student by Name
+11. Exit
 ```
 
 ---
